@@ -13,7 +13,7 @@ While you may have Java installed on your computer, it would be helpful to insta
 
 Visit http://www.oracle.com/technetwork/java/javase/downloads/index.html and find the JDK *DOWNLOAD* link.
 
-The download page will have a number of different versions for Linux. You'll need to know if you have an 64-bit processor or a 23-bit processor.
+The download page will have a number of different versions for Linux. You'll need to know if you have an 64-bit processor or a 32-bit processor.
 
 ### For Ubuntu (version 15, and possibly older versions)
 To determine if your platform is 32-bit or 64-bit:
