@@ -35,7 +35,8 @@ BuildID[sha1]=8d8b7b5e681ec2cd7b572e2026bfcf5fce179e4e, stripped
 * When complete run `sudo apt-get autoremove` to free up space from software that is no longer needed.
 
 ## Installing Python
-* Ubuntu may already have *Python3* installed. From the prompt type `python3` to run the interpreter. The first line will show which version of Python you have.
+* Ubuntu may already have **Python3** installed. From the prompt type `python3` to run the interpreter. The first line will show which version of Python you have.
+   * NOTE: Ubuntu 16.04 has only **Python3**. Python2 has been removed. 
 
    **OR**  
    
