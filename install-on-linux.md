@@ -29,5 +29,6 @@ BuildID[sha1]=8d8b7b5e681ec2cd7b572e2026bfcf5fce179e4e, stripped
    * If that doesn't work, try `file /sbin/init` and you should get similar results.
 
 
-
+## Rough Notes
+* Ubuntu uses the tar.gz package, not the RPM, unless you use apt-get
 
