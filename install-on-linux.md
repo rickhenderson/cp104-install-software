@@ -18,10 +18,13 @@ The download page will have a number of different versions for Linux. You'll nee
 ### For Ubuntu (version 15, and possibly older versions)
 To determine if your platform is 32-bit or 64-bit:
 * Open a *terminal*.
-* Type `file /lib/systemd/systemd' and press *ENTER*.
+* Type `file /lib/systemd/systemd` and press *ENTER*.
 * The result will include some text which states 32-bit or 64-bit such as
+
 ```
-/lib/systemd/systemd: ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=8d8b7b5e681ec2cd7b572e2026bfcf5fce179e4e, stripped
+/lib/systemd/systemd: ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, 
+interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, 
+BuildID[sha1]=8d8b7b5e681ec2cd7b572e2026bfcf5fce179e4e, stripped
 ```
    * If that doesn't work, try `file /sbin/init` and you should get similar results.
 
