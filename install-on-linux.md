@@ -36,8 +36,10 @@ BuildID[sha1]=8d8b7b5e681ec2cd7b572e2026bfcf5fce179e4e, stripped
 
 ## Installing Python
 * Ubuntu may already have *Python3* installed. From the prompt type `python3` to run the interpreter. The first line will show which version of Python you have.
+
+   **OR**  
+   
 * Python3 has to be compiled under Linux. For Ubuntu: `sudo apt-get install python3` and use `python3` to run the interpreter or configure files. You may have to set up Eclipse to use the python3 interpreter.
-* 
 
 ## Installing Eclipse
 The instructions on the CP104 Software Installation site are correct:
