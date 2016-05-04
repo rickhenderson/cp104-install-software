@@ -47,5 +47,6 @@ The instructions on the CP104 Software Installation site are correct:
 * After downloading, unzip the `eclipse-inst-linux64.tar.gz` file to create the Installer. Start the Installer once it is available. This can be done using the Archive Manager or any command line tool you feel comfortable with.
 * When setting up the custom *CP104.setup* setup, the default variable values will be different from the ones in the documentation but still use the values described in the document. For example, set the `Installation folder name` to `cp104`.
 * On the Confirmation dialog box, you will have to click the item at the top of the list and make sure all the items are checked in order to make the *Finish* button active so you can click on it.
+* Installation may take a while. It took more than 10 minutes to install Eclipse on my (older) i3 running Ubuntu 15.
 
 ## Installing PyDev
