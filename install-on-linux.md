@@ -33,6 +33,8 @@ BuildID[sha1]=8d8b7b5e681ec2cd7b572e2026bfcf5fce179e4e, stripped
 * Ubuntu uses the tar.gz package, not the RPM, unless you use apt-get
 * Ubuntu repositories can no longer host the Java binaries, so you can't use apt-get, try `sudo apt-get install openjdk-8-jdk
 * When complete run `sudo apt-get autoremove` to free up space from software that is no longer needed.
+
+## Installing Python
 * Ubuntu may already have *Python3* installed. From the prompt type `python3` to run the interpreter. The first line will show which version of Python you have.
 * Python3 has to be compiled under Linux. For Ubuntu: `sudo apt-get install python3` and use `python3` to run the interpreter or configure files. You may have to set up Eclipse to use the python3 interpreter.
 * 
@@ -41,3 +43,5 @@ BuildID[sha1]=8d8b7b5e681ec2cd7b572e2026bfcf5fce179e4e, stripped
 The instructions on the CP104 Software Installation site are correct:
 * Download [eclipse-inst-linux64.tar.gz](http://bohr.wlu.ca/eclipse/eclipse-inst-linux64.tar.gz)
 * After downloading, unzip the `eclipse-inst-linux64.tar.gz` file to create the Installer. Start the Installer once it is available. This can be done using the Archive Manager or any command line tool you feel comfortable with.
+* When setting up the custom *CP104.setup* setup, the default variable values will be different from the ones in the documentation but still use the values described in the document. For example, set the `Installation folder name` to `cp104`.
+* On the Confirmation dialog box, you will have to click the item at the top of the list and make sure all the items are checked in order to make the *Finish* button active so you can click on it.
