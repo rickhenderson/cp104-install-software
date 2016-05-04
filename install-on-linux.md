@@ -39,5 +39,5 @@ BuildID[sha1]=8d8b7b5e681ec2cd7b572e2026bfcf5fce179e4e, stripped
 
 ## Installing Eclipse
 The instructions on the CP104 Software Installation site are correct:
-* Download [http://bohr.wlu.ca/eclipse/eclipse-inst-linux64.tar.gz](http://bohr.wlu.ca/eclipse/eclipse-inst-linux64.tar.gz)
+* Download [eclipse-inst-linux64.tar.gz](http://bohr.wlu.ca/eclipse/eclipse-inst-linux64.tar.gz)
 * After downloading, unzip the `eclipse-inst-linux64.tar.gz` file to create the Installer. Start the Installer once it is available. This can be down using the Archive Manager or any command line tool you feel comfortable with.
